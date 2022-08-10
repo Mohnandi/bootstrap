@@ -1,0 +1,16 @@
+/* yang peting itu;
+1. layouttig (menguanakan row da col) */
+
+.text-primary,
+.accordion-button:not(.collapsed) {
+  color: #4b8b90 !important;
+}
+.bg-primary {
+  background-color: #4b8b90 !important;
+}
+
+#jumbotron {
+  background-image: url(./bg-1.png);
+  background-size: cover;
+  height: 100vh;
+}
